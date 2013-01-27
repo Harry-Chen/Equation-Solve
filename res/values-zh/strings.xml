@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">方程求解</string>
+    <string name="menu_exit">退出</string>
+    <string name="title_activity_main">方程求解</string>
+    <string name="plz_input_coefficient">请输入方程各项系数\n(一元一次请无视a)</string>
+    <string name="to_show_result">快输完了猛戳下面的“求解”~</string>
+    <string name="btn_solve">求解</string>
+    <string name="btn_reset">重置</string>
+    <string name="delta_error">啊哦,Delta小于0哦,本程序不提供复数解~</string>
+    <string name="about">Ver 1.1 By Harry Chen 2013/01/20</string>
+    <string name="b_error">嘿!好歹给我个一次项系数!</string>
+
+</resources>

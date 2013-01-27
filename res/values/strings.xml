@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Equation Solve</string>
+    <string name="menu_exit">Exit</string>
+    <string name="title_activity_main">Equation Solve</string>
+    <string name="plz_input_coefficient">Please input the coefficients of the equation\n(Leave \'a\' EMPTY if it is one-time equation)</string>
+    <string name="to_show_result">Click "Solve" when you finish input</string>
+    <string name="btn_solve">Solve</string>
+    <string name="btn_reset">Reset</string>
+    <string name="delta_error">Oops, Delta is smaller than 0, complex solutions are not provided</string>
+    <string name="about">Ver 1.0 By Harry Chen 2013/01/19</string>
+    <string name="b_error">Hey, have you enteren the coefficient of x?</string>
+</resources>
